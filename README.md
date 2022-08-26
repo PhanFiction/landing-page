@@ -1,1 +1,1 @@
-# landing-page
+Landing Page for Genshin Impact fandom
